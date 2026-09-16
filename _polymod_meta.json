@@ -1,0 +1,15 @@
+{
+	"title": "Animania",
+	"description": "A port of the mod Vs Impostor legacy",
+	"homepage": "https://youtube.com/@rbrenninho8840?si=RkuEwcfF7j3QfJaH",
+	"contributors": [
+		{
+			"name": "Brenninho",
+			"role": "Porter",
+			"url": "https://youtube.com/@rbrenninho8840?si=RkuEwcfF7j3QfJaH"
+		}
+	],
+	"api_version": "0.8.8",
+	"mod_version": "1.0.0",
+	"license": "CC BY 4.0,MIT"
+}
