@@ -2,7 +2,7 @@
 	"version": "1.0.0",
 	"name": "DADDY DEAREST",
 	"titleAsset": "storymenu/titles/week1",
-  "visible": false,
+    "visible": false,
 	"props": [
 		{
 			"assetPath": "storymenu/props/amtake/week1/DADDY_DEAREST_MENU",
